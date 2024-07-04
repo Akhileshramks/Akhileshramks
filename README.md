@@ -58,6 +58,7 @@ I'm Akhilesh,an innovative final-year student at the Madras Institute of Technol
 | Student Club Management System        | MySQL, PHP, HTML, CSS                    | Eased student registration and event organization for a college club.                       | [GitHub](https://github.com/Akhileshramks/Student-Club-Management-System)                |
 | Attendance Management System          | HTML, PHP, JavaScript, MariaDB           | Web app for marking and tracking student attendance.                                        | [GitHub](https://github.com/Akhileshramks/Attendance-Management)                         |
 | Sentiment Analysis on Social Media Platforms | Flask, Python                          | Real-time web app for sentiment analysis using NLP and TF-IDF.                              | [GitHub](https://github.com/Akhileshramks/Sentiment-Analysis.git)                        |
+| Human Fall Detection          | Python,YOLO           | Innovative Approach to Real-time Fall detection                                        | [GitHub](https://github.com/Akhileshramks/Human-Fall-Detection)                         |
 
 
 <div align="center">
