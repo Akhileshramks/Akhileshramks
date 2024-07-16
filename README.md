@@ -77,14 +77,15 @@ I'm Akhilesh,an innovative final-year student at the Madras Institute of Technol
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=akhileshramks&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Akhileshramks" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhileshramks&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Akhileshramks" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=akhileshramks&show_icons=true&theme=vision-friendly-dark" alt="Akhileshramks" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhileshramks&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akhileshramks" /></td>
+    
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhileshramks&theme=dark" alt="Akhileshramks" /></p>
-  </div>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=akhileshramks&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
  [Akhilesh's Portfolio](https://akhileshramks.github.io/Resume/)
 
