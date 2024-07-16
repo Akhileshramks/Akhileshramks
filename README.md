@@ -87,6 +87,8 @@ I'm Akhilesh,an innovative final-year student at the Madras Institute of Technol
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=akhileshramks&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+<img src="https://github.com/Akhileshramks/Akhileshramks/blob/output/github-contribution-grid-snake-dark.svg" alt="snake_game">
+
  [Akhilesh's Portfolio](https://akhileshramks.github.io/Resume/)
 
 
