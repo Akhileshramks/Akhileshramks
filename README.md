@@ -2,7 +2,6 @@
 
  <b> Hello </b> , pleased to meet you Stranger !
 
-I'm Akhilesh,an innovative final-year student at the Madras Institute of Technology, Anna University in Chennai, majoring in Information Technology. I am deeply passionate about solving complex problems and have a solid foundation in programming and computer science. I enjoy mathematics and coding and am particularly fascinated by machine learning. I’m proficient with many of the fundamental and well-known libraries available. I also love coding and creating new things. I’ve explored front-end and back-end web development, machine learning projects, natural language processing projects, and much more.
 
 
 <h3 align="center"> Software Development | Programming | Data Science |  Artifical Intelligence </h3>
