@@ -1,8 +1,34 @@
-<h1 align="center" >Hello World, I'm Akhilesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=3000&pause=1000&center=true&vCenter=true&width=441&height=59&lines=Hello+World%2C+I'm+Akhilesh" alt="Typing SVG">
+  </a>
+</p>
+<hr>
 
- <b> Hello </b> , pleased to meet you Stranger !
+<div align="center">
+  <h3>Pleased to meet you Stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px"></h3>
+</div>
 
 
+### 🔭 I’m currently working on
+- **Vegrow, India:** Enhancing product functionalities by optimising produce grading and refining matching processes with demand channels as a Software Development Engineer intern.
+- **Deep Learning and AI Projects:** Engaging in advanced projects related to deep learning and artificial intelligence.
+
+### 👯 I’m looking to collaborate on
+- **Machine Learning Projects:** Interested in collaborating on innovative machine learning projects.
+- **Open Source Projects:** Particularly those focused on machine learning, natural language processing, or AI-driven solutions.
+
+### 🤝 I’m looking for help with
+- **Natural Language Processing (NLP):** Seeking assistance and collaboration in the field of NLP.
+
+### 🌱 I’m currently learning
+- **Large Language Models (LLMs):** Expanding my knowledge and expertise in LLMs.
+- **Neural Networks & AI:** Enhancing my skills in artificial intelligence and neural network models.
+
+### 💬 Ask me about
+- **Data Structures and Algorithms (DSA):** Proficient in DSA and can provide insights and solutions.
+- **Web Development:** Experienced in both frontend and backend development.
+- **Databases:** Knowledgeable about MySQL, MongoDB, and PostgreSQL.
 
 <h3 align="center"> Software Development | Programming | Data Science |  Artifical Intelligence </h3>
 
