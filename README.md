@@ -100,7 +100,7 @@
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=akhileshramks&show_icons=true&theme=vision-friendly-dark" alt="Akhileshramks" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=akhileshramks&show_icons=true&theme=vision-friendly" alt="Akhileshramks" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhileshramks&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akhileshramks" /></td>
     
   </tr>
