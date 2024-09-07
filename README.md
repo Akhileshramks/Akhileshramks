@@ -100,7 +100,7 @@
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=akhileshramks&show_icons=true&theme=vision-friendly" alt="Akhileshramks" />
+<td><img src="https://github-readme-stats.vercel.app/api?username=akhileshramks&show_icons=true&theme=vision-friendly-dark" alt="Akhileshramks" />
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhileshramks&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Akhileshramks" /></td>
     
   </tr>
@@ -110,7 +110,7 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=akhileshramks&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<img src="https://github.com/Akhileshramks/Akhileshramks/blob/output/github-contribution-grid-snake-dark.svg" alt="snake_game">
+<img src="https://github.com/Akhileshramks/Akhileshramks/blob/output/github-contribution-grid-snake.svg" alt="snake_game">
 
  [Akhilesh's Portfolio](https://akhileshramks.github.io/Resume/)
 
