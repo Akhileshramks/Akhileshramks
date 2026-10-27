@@ -1,59 +1,57 @@
-<h1 align="center">Akhilesh Ram K S</h1>
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f2027,50:203a43,100:2c5364&text=Akhilesh%20Ram%20K%20S&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Engineer&descSize=18&descAlignY=60&animation=fadeIn">
 
 <p align="center">
   <a href="https://github.com/Akhileshramks">
-    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1200&color=8A8A8A&center=true&vCenter=true&width=640&height=40&lines=Computer+vision+%C2%B7+ML+pipelines+%C2%B7+full-stack+products;Turning+models+into+things+that+ship;Based+in+Chennai%2C+India">
+    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Teaching+machines+to+see;Computer+vision+%C2%B7+ML+pipelines+%C2%B7+full-stack;Turning+models+into+things+that+ship;Chennai%2C+India">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhilesh-ram-ks/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:akhileshram710@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://akhileshramks.github.io/Resume/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white"></a>
 </p>
 
----
+## 👋 Hello
 
-## About
+I'm an AI Engineer at **Vegrow**, building an on-device computer vision system (ARCore, SLAM, deep learning) that measures produce in 3D and grades fruit by size and quality. I own the model lifecycle end to end: data, training, evaluation, and deployment.
 
-I'm an AI Engineer at **Vegrow**, where I build an on-device computer vision system (ARCore, SLAM, deep learning) that measures produce in 3D and automates fruit size, quality, and grade assessment. I own the model lifecycle end to end: data, training, evaluation, and deployment.
+Outside work I build and ship apps, several of them live on Google Play.
 
-Outside work I ship apps. Four of them are on Google Play, built from scratch across backend, data, and UI.
+```text
+ focus      computer vision · ML systems · LLM pipelines
+ background B.Tech IT (Honors), MIT Chennai · Teaching Assistant, 1000+ students
+ learning   LLM evaluation · agentic workflows
+ open to    ML, computer vision, and NLP collaborations
+```
 
-- B.Tech in Information Technology (Honors), Madras Institute of Technology, Anna University
-- Teaching Assistant at IIT Madras, mentoring 1000+ students in Data Structures and Algorithms
-- Amazon ML Summer School 2024
+## 🧰 Toolbox
 
-## Currently
+<p>
+  <img alt="Skills" src="https://skillicons.dev/icons?i=python,cpp,java,go,ts,js,kotlin,pytorch,react,nextjs,nodejs,androidstudio,postgres,mysql,mongodb,aws,docker,git&perline=9">
+</p>
 
-- Building and deploying computer vision models at Vegrow
-- Working with LLM pipelines, evaluation, and validation
-- Open to ML, computer vision, and NLP collaborations
+## 🔬 Selected work
 
-## Selected work
-
-| Project | What it is | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [**DiffVector**](https://github.com/Akhileshramks/DiffVector) | Diffusion-based pipeline that turns aerial imagery into vector building outlines (hierarchical diffusion transformer, Swin boundary encoder, graph diffusion) | Python, PyTorch |
-| [**Legal Search Engine**](https://github.com/Akhileshramks/Legal_Search_Engine) | Search over Indian legal documents with NLP and a vector-space retrieval model | Python, Flask, NLP |
+| [**DiffVector**](https://github.com/Akhileshramks/DiffVector) | Diffusion pipeline that turns aerial imagery into vector building outlines | Python, PyTorch |
+| [**Legal Search Engine**](https://github.com/Akhileshramks/Legal_Search_Engine) | Search over Indian legal documents using NLP and vector-space retrieval | Python, Flask, NLP |
 | [**Human Fall Detection**](https://github.com/Akhileshramks/Human-Fall-Detection) | Real-time fall detection from video | Python, YOLO |
-| [**LeetCode Solutions**](https://github.com/Akhileshramks/LeetCode_Solution) | Curated problems and solutions for interview prep | C++ |
-| [**Online Library Portal**](https://github.com/Akhileshramks/Online-Library-Portal) | Library system with authentication, book management, and role-based access | React, Rails, Go, MySQL, MongoDB |
-| [**Student Club Management**](https://github.com/Akhileshramks/Student-Club-Management-System) | Registration and event platform for a college club | PHP, MySQL |
+| [**Online Library Portal**](https://github.com/Akhileshramks/Online-Library-Portal) | Library system with authentication and role-based access | React, Rails, Go |
+| [**LeetCode Solutions**](https://github.com/Akhileshramks/LeetCode_Solution) | Interview-prep problems and solutions | C++ |
 
-## Apps
+## 📈 Activity
 
-I design, build, and ship apps end to end, and have published several on Google Play.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhileshramks/Akhileshramks/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Akhileshramks/Akhileshramks/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-## Tech
+<p align="center">
+  <img alt="GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=Akhileshramks&show_icons=true&hide_border=true&bg_color=0:0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide=contribs">
+  <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileshramks&layout=compact&hide_border=true&bg_color=0:0d1117&title_color=58A6FF&text_color=c9d1d9&hide=html,css">
+</p>
 
-| | |
-|---|---|
-| **Languages** | Python · C++ · Java · Go · TypeScript · JavaScript · Kotlin · SQL |
-| **ML / AI** | PyTorch · Computer Vision · Diffusion Models · Reinforcement Learning · NLP · LLM pipelines |
-| **Web & Mobile** | React · Next.js · Node.js · Android |
-| **Data & Cloud** | PostgreSQL · MySQL · MongoDB · SQLite · AWS · Docker · Git |
-
----
-
-<p align="center"><sub>Open to conversations about ML, computer vision, and building things that ship.</sub></p>
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2c5364,100:0f2027">
