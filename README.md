@@ -1,8 +1,9 @@
 <h1 align="center">Akhilesh Ram K S</h1>
 
 <p align="center">
-  AI Engineer building computer vision systems, ML pipelines, and full-stack products.<br>
-  <sub>Chennai, India</sub>
+  <a href="https://github.com/Akhileshramks">
+    <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=1200&color=8A8A8A&center=true&vCenter=true&width=640&height=40&lines=Computer+vision+%C2%B7+ML+pipelines+%C2%B7+full-stack+products;Turning+models+into+things+that+ship;Based+in+Chennai%2C+India">
+  </a>
 </p>
 
 <p align="center">
@@ -20,7 +21,6 @@ I'm an AI Engineer at **Vegrow**, where I build an on-device computer vision sys
 Outside work I ship apps. Four of them are on Google Play, built from scratch across backend, data, and UI.
 
 - B.Tech in Information Technology (Honors), Madras Institute of Technology, Anna University
-- B.S. in Data Science and Applications, IIT Madras
 - Teaching Assistant at IIT Madras, mentoring 1000+ students in Data Structures and Algorithms
 - Amazon ML Summer School 2024
 
@@ -41,16 +41,9 @@ Outside work I ship apps. Four of them are on Google Play, built from scratch ac
 | [**Online Library Portal**](https://github.com/Akhileshramks/Online-Library-Portal) | Library system with authentication, book management, and role-based access | React, Rails, Go, MySQL, MongoDB |
 | [**Student Club Management**](https://github.com/Akhileshramks/Student-Club-Management-System) | Registration and event platform for a college club | PHP, MySQL |
 
-## Published apps
+## Apps
 
-Source is private. These are live on Google Play.
-
-| App | What it does |
-|---|---|
-| **GateBro** | GATE exam prep with 16,700+ questions, server-side grading, mock tests, and spaced repetition |
-| **CaPeer** | CA exam question bank with timed MCQ tests and an AI tutor |
-| **DSA-Bae** | Data structures and algorithms prep with approaches and C++ solutions |
-| **AKeys** | On-screen volume and lock keys for phones with broken buttons, built on Android accessibility |
+I design, build, and ship apps end to end, and have published several on Google Play.
 
 ## Tech
 
